@@ -24,7 +24,7 @@ inflatable plug.  aliexpress
 Inflatable Anal Plug Butt Expander For Women Dildos Vaginal Dilator Sex Toys Men Gay Couple Tool Bondage Set Erotic Machine Shop
 https://a.aliexpress.com/_EQMq3tQ
 
-![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/ImfatablePlug.webp?raw=true "Plug")
+![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/InflatablePlug.webp?raw=true "Plug")
 
 various tubes, these i already owned
 
