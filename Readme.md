@@ -1,5 +1,5 @@
-ill put copy of esp32 code and stls on here.
-
+Hi
+![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/FullSetup.webp?raw=true "FullSetup")
 
 
 Parts
@@ -24,6 +24,7 @@ inflatable plug.  aliexpress
 Inflatable Anal Plug Butt Expander For Women Dildos Vaginal Dilator Sex Toys Men Gay Couple Tool Bondage Set Erotic Machine Shop
 https://a.aliexpress.com/_EQMq3tQ
 
+![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/ImfatablePlug.webp?raw=true "Plug")
 
 various tubes, these i already owned
 
@@ -43,3 +44,11 @@ workaround was coat in uv glue and set it.
 Remote Bluetooth Toys, Lovesense Protocol.
 ![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/BluetoothVibrator.webp?raw=true "Vibrator")
 ![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/BluetoothSleeve.webp?raw=true "Sleeve")
+
+
+
+
+
+
+TODO
+Really needs tidying up, but was just done as a kind of trial, needs a nice stl to put the esp32 into and preferable attach to the sensor housing.
