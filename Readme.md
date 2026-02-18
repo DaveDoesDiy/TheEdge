@@ -9,11 +9,12 @@ bmp180/gy-68.    aliexpress
 https://a.aliexpress.com/_EGukW8Y
 
 
+
 esp32-c3.        aliexpress
 ESP32-C3 Development Board Modules Super Mini Development Board 32-Bit Single-Core Processor ESP32 C3 16Pin Type-C
 https://a.aliexpress.com/_EJ733qo
 
-
+![alt text](https://github.com/DaveDoesDiy/TheEdge/raw/master/Imgs/ESP32-C3.webp "ESP32-C3")
 
 wires.           aliexpress
 
