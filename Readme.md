@@ -40,3 +40,6 @@ increased to 4walls and 100@% infil
 workaround was coat in uv glue and set it.
 
 
+Remote Bluetooth Toys, Lovesense Protocol.
+![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/BluetoothVibrator.webp?raw=true "Vibrator")
+![alt text](https://github.com/DaveDoesDiy/TheEdge/blob/main/Imgs/BluetoothSleeve.webp?raw=true "Sleeve")
